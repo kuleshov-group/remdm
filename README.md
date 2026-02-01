@@ -1,4 +1,4 @@
-# Remasking Discrete Diffusion Models with Inference-Time Scaling
+# [NeurlPS 2025] Remasking Discrete Diffusion Models with Inference-Time Scaling
 
 [![arXiv](https://img.shields.io/badge/arXiv-2503.00307-red.svg)](https://arxiv.org/abs/2503.00307)
 [![deploy](https://img.shields.io/badge/Blog%20%20-8A2BE2)](https://remdm.github.io)
